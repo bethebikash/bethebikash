@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bethebikash (Bikash Bhattarai)
-- 👀 I’m interested in coding, design, music(listion)
+- 👀 I’m interested in coding, design.
 - 🌱 I’m currently learning advance topic in react.
 - 💞️ I’m looking to collaborate on frontend project.
 - 📫 How to reach me? -Just email : bhattaraibikash55@gmail.com
