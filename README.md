@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bethebikash (Bikash Bhattarai)
 - 👀 I’m interested in coding, design.
-- 🌱 I’m currently learning advance topic in react.
-- 💞️ I’m looking to collaborate on frontend project.
+- 🌱 I’m currently working as a frontend engineer. (using React.js).
+- 💞️ I’m looking to collaborate on frontend project as a freelancer.
 - 📫 How to reach me? -Just email : bhattaraibikash55@gmail.com
 
 <!---
